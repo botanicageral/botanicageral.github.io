@@ -10,9 +10,9 @@ PATH = 'content'
 
 TIMEZONE = 'America/Bahia'
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = 'pt'
 
-THEME = 'theme/pure/'
+THEME = 'theme/attila/'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -24,6 +24,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('WhatssApp', 'https://google.com/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
+#         ('Sobre', 'pages/sobre.html'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
