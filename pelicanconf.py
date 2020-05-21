@@ -24,7 +24,6 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('WhatssApp', 'https://google.com/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
-#         ('Sobre', 'pages/sobre.html'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
