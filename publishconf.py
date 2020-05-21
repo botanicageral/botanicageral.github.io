@@ -19,9 +19,7 @@ CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
-FAVICON = 'content/dev/imgages/favicon.ico'
-
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+GOOGLE_ANALYTICS = "UA-167353619-1"
