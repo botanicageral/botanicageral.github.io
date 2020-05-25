@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Botânica Geral'
 SITENAME = 'Botânica Geral'
+#SITESUBTITLE = 'INCRIVELMEMTE APAIXONADOS POR PLANTAS.'
 SITEURL = ''
 
 PATH = 'content'
